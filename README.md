@@ -4,5 +4,4 @@ This is my first Git Repository.
 Author - Sn Senapati
 <br>
 Welcome to GitHub
-kana karuchu kire bapadhana
 
