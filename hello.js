@@ -4,6 +4,10 @@ console.log(x)
 
 // Task code 101
 
+function hello(){
+    console.log("helo")
+}
+hello()
 // First priority
 function outer(){
     var z = 10
