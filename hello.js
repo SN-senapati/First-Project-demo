@@ -2,7 +2,9 @@ let x = 10
 console.log(x)
 
 
+// Task code 101
 
+<<<<<<< Updated upstream
 // First priority
 function outer(){
     var z = 10
@@ -14,3 +16,9 @@ function outer(){
     inner()
 }
 outer()
+=======
+function hello(){
+    var z = 10
+    
+}
+>>>>>>> Stashed changes
