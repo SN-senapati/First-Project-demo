@@ -4,6 +4,10 @@ console.log(x)
 
 // Task code 101
 
+function hello(){
+    console.log("helo")
+}
+hello()
 // First priority
 function outer(){
     var z = 10
@@ -15,6 +19,14 @@ function outer(){
     inner()
 }
 outer()
+
+function hello(){
+    var value = 34
+    console.log(value)
+}
+hello()
+
+
 function hello(){
     var z = 10
     
