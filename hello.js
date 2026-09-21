@@ -32,3 +32,7 @@ function hello(){
     console.log(z)
 }
 hello()
+
+
+
+console.log("hello mr sibani gananatya")
