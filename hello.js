@@ -19,6 +19,14 @@ function outer(){
     inner()
 }
 outer()
+
+function hello(){
+    var value = 34
+    console.log(value)
+}
+hello()
+
+
 function hello(){
     var z = 10
     
