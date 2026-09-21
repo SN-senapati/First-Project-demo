@@ -1,6 +1,7 @@
 let x = 10
 console.log(x)
 
+<<<<<<< Updated upstream
 
 // First priority
 function chaita(){
@@ -12,3 +13,10 @@ function chaita(){
     chaita2()
 }
 chaita()
+=======
+// not first priority
+function chunia(){
+    let value = 10;
+
+}
+>>>>>>> Stashed changes
