@@ -1,4 +1,1 @@
-
-
-let x = 20
-console.log(x)
+let arr = [10,20,30]
