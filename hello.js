@@ -35,4 +35,3 @@ hello()
 
 
 
-console.log("hello mr sibani gananatya")
