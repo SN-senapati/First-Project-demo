@@ -35,4 +35,7 @@ hello()
 
 
 
+<<<<<<< HEAD
 console.log("hello prince")
+=======
+>>>>>>> c5c7736cdecf4040222ce36216c3c4586dc91cad
