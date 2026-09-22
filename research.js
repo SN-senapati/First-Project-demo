@@ -1,5 +1,5 @@
 
-console.log("Kire Chunia")
+console.log("Chunia kire sala panibadia")
 
 let x = 10
 console.log(x)
