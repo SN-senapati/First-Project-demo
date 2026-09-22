@@ -1,5 +1,5 @@
 
-console.log("hello world")
+console.log("Kire Chunia")
 
 let x = 10
 console.log(x)
