@@ -6,3 +6,4 @@ for(let value of arr){
 // find second largest number
 let x =  [1,3,6,6,32,5]
 console.log(x)
+
